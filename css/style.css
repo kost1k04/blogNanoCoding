@@ -1,0 +1,10 @@
+@import url(header.css);
+@import url(article-simple.css);
+@import url(sidebar.css);
+@import url(footer.css);
+
+
+body {
+	background-color: #EFEFEF!important;
+	font-family: 'Lato', sans-serif;
+}
